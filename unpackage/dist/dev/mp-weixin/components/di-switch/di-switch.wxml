@@ -1,0 +1,1 @@
+<view class="di-switch"><u-switch bind:input="__e" vue-id="1ea9a388-1" active-color="#19be6b" value="{{tempVal}}" data-event-opts="{{[['^input',[['__set_model',['','tempVal','$event',[]]]]]]}}" bind:__l="__l"></u-switch></view>

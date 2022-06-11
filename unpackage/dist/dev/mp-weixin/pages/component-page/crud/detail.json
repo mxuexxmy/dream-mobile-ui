@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "详细",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "di-descriptions": "/components/di-descriptions/di-descriptions",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "di-descriptions-item": "/components/di-descriptions-item/di-descriptions-item",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-link": "/uview-ui/components/u-link/u-link",
+    "u-parse": "/uview-ui/components/u-parse/u-parse"
+  }
+}

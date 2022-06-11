@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-card": "/uview-ui/components/u-card/u-card",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "banner": "/pages/home/banner/index",
+    "calendar": "/pages/home/calendar/calendar"
+  }
+}

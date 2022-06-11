@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "表单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "di-select": "/components/di-select/di-select",
+    "di-checkbox-list": "/components/di-checkbox-list/di-checkbox-list",
+    "di-radio-list": "/components/di-radio-list/di-radio-list",
+    "di-switch": "/components/di-switch/di-switch",
+    "di-calendar-picker": "/components/di-calendar-picker/di-calendar-picker",
+    "di-region-picker": "/components/di-region-picker/di-region-picker",
+    "di-date-picker": "/components/di-date-picker/di-date-picker",
+    "di-upload": "/components/di-upload/di-upload",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

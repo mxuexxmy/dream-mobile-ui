@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "di-card": "/components/di-card/di-card"
+  },
+  "component": true
+}

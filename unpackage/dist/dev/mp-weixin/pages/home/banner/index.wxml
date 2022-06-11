@@ -1,0 +1,1 @@
+<view><u-swiper vue-id="4806ff10-1" height="{{390}}" list="{{list}}" data-event-opts="{{[['^change',[['change']]]]}}" bind:change="__e" bind:__l="__l"></u-swiper></view>

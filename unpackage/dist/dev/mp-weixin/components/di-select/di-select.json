@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-select": "/uview-ui/components/u-select/u-select"
+  },
+  "component": true
+}

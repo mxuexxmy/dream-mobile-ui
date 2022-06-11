@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "组件",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "di-scroll-menu-list": "/components/di-scroll-menu-list/di-scroll-menu-list",
+    "navigation": "/pages/component-page/navigation/index"
+  }
+}
